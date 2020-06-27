@@ -4,6 +4,3 @@ Ich moechte euch JSB naeherbringen
 * Bar rocker
 * kinderreich
 * Komponist
- * Matthaeus Passion
- * Weihnachts Oratorium
- * Fugenkunst
